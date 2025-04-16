@@ -2,7 +2,7 @@
 
 **📊 Data Analyst** | SQL | Python | Power BI | Data Warehousing  
 **🔭 Currently exploring:** Machine Learning & Cloud Data Solutions  
-**📫 Let's connect:** [LinkedIn](https://linkedin.com/in/jasonguan067) | [Portfolio](https://github.com/jasonguan067)  
+**📫 Let's connect:** [LinkedIn](https://linkedin.com/in/jasonguan067) | [Portfolio]((https://github.com/jasonguan067/Data-Analyst-Portfolio)  
 
 ---
 
