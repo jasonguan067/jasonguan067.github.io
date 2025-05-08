@@ -1,34 +1,37 @@
-# Hi, I'm Jason Guan 👋
+# Jason Guan
 
-**📊 Data Analyst** | SQL | Python | Power BI | Data Warehousing  
-**🔭 Currently exploring:** Machine Learning & Cloud Data Solutions  
-**📫 Let's connect:** [LinkedIn](https://linkedin.com/in/jasonguan067) | [Portfolio]((https://github.com/jasonguan067/Data-Analyst-Portfolio)  
+**Data Analyst/Business Analyst** | SQL | Python | Power BI | AWS
+
+**Currently exploring:** Machine Learning & Cloud Data Solutions  
+**Let's connect:** [LinkedIn](https://linkedin.com/in/jasonguan067) | [Portfolio]((https://github.com/jasonguan067/Data-Analyst-Portfolio)  
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Stack
 
 **▸ Data Querying & Processing**  
-- SQL (SQL Server, PostgreSQL, BigQuery)  
-- Python (Pandas, NumPy, Scikit-learn)  
-- ETL/Data Pipelines (Azure Data Factory, SSIS)  
+SQL (T-SQL, PostgreSQL, BigQuery) · Python (Pandas, Matplotlib) · Excel (advanced formulas, pivot tables)  
+ETL/Data Pipelines · Data Cleaning · Joins, Window Functions, CTEs
 
 **▸ Visualization & Reporting**  
-- Power BI | Tableau | Looker Studio  
-- Advanced Excel/Google Sheets  
+Power BI · Tableau · Looker Studio · Excel Dashboards  
+Experience with DAX, calculated fields, slicers, and dynamic visuals
 
 **▸ Data Architecture**  
-- Star Schema Design | Medallion Architecture  
-- Cloud Platforms (Azure, GCP)  
+Star Schema Design · Medallion Architecture (Bronze, Silver, Gold)  
+Basic use of Azure Data Factory · AWS (S3, Athena) · BigQuery
+
+**▸ Tools & Collaboration**  
+Git & GitHub · Jupyter Notebooks · VS Code · Agile team experience
 
 ---
 
-## 💡 Value Proposition
+## 💡 How I Add Value
 
 ✔ Transforming raw data into actionable business insights  
 ✔ Building scalable data models for analytics  
 ✔ Creating interactive dashboards for decision-makers  
-
+✔ Communicate findings with clarity — both visually and verbally
 ---
 
 ## 📌 Explore My Work
